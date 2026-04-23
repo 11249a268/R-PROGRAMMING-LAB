@@ -317,3 +317,37 @@ $Scores
 3 English    91
 
 ////////////EXP-7/////////////
+# Experiment 7 - Question 1 Output
+
+# head(sales)
+        Date Product    Category Quantity Price
+1 2026-02-01  Tablet Electronics        4 30000
+2 2026-02-01   Shoes     Fashion        8  2500
+3 2026-02-02  Laptop Electronics        2 55000
+4 2026-02-02   Watch Accessories        6  5000
+5 2026-02-03   Shoes     Fashion        5  2500
+6 2026-02-03  Tablet Electronics        3 30000
+
+# total_sales_product
+  Product TotalSales
+1  Laptop     110000
+2   Shoes      32500
+3  Tablet     210000
+4   Watch      30000
+
+# top_product
+  Product TotalSales
+3  Tablet     210000
+
+# quantity_per_category
+     Category Quantity
+1 Accessories        6
+2 Electronics        9
+3     Fashion       13
+
+# high_sales
+  Product TotalSales
+1  Laptop     110000
+2   Shoes      32500
+3  Tablet     210000
+4   Watch      30000
