@@ -204,3 +204,116 @@
 
 # Experiment 5 - Question 10 Output
 [1] "Bala" "Ravi"
+
+/////////////EXP-6/////////////////
+# Experiment 6 - Question 1 Output
+[1] 395
+[1] 79
+[1] 91
+
+# Experiment 6 - Question 2 Output
+[1] 28
+[1] 33
+
+# Experiment 6 - Question 3 Output
+$ID
+[1] 205
+
+$Name
+[1] "Arjun"
+
+$Salary
+[1] 55000
+
+$Department
+[1] "Finance"
+
+[1] "Arjun"
+[1] 55000
+
+# Experiment 6 - Question 4 Output
+$PatientID
+[1] 305
+
+$Name
+[1] "Meena"
+
+$Age
+[1] 50
+
+$TestResults
+[1] 110 135 128
+
+[1] 110 135 128
+
+# Experiment 6 - Question 5 Output
+  RollNo  Name Dept Marks
+1     11 Rahul  CSE    78
+2     12 Sneha  ECE    85
+3     13 Kiran   IT    92
+
+# Experiment 6 - Question 6 Output
+[1] 158000
+
+# Experiment 6 - Question 7 Output
+[1]  999 1499  299
+
+$CustomerID
+[1] 401
+
+$Name
+[1] "Priya"
+
+$City
+[1] "Hyderabad"
+
+      Item Price
+1    Mouse   999
+2 Keyboard  1499
+3      USB   299
+
+# Experiment 6 - Question 8 Output
+$Name
+[1] "Vijay"
+
+$RollNo
+[1] 121
+
+$Marks
+[1] 82 76 89
+
+  RollNo Total
+1    111   250
+2    112   240
+3    113   270
+
+# Experiment 6 - Question 9 Output
+[1] 8000 8500 8200
+
+$AccountNo
+[1] 56789
+
+$Name
+[1] "Lakshmi"
+
+   Date Amount
+1 10-01  -1000
+2 11-01   2000
+3 12-01   -500
+
+# Experiment 6 - Question 10 Output
+$Name
+[1] "Suresh"
+
+$Age
+[1] 22
+
+$Scores
+[1] 78 84 91
+
+  Subject Marks
+1    Math    78
+2 Science    84
+3 English    91
+
+////////////EXP-7/////////////
