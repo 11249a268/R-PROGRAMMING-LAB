@@ -1,3 +1,13 @@
+#csv data
+Date          Product              Category         Quantity       Price
+2026-02-01    Tablet              Electronics           4          30000
+2026-02-01    Shoes               Fashion               8          2500
+2026-02-02    Laptop              Electronics           2          55000
+2026-02-02    Watch               Accessories           6          5000
+2026-02-03    Shoes               Fashion               5          2500
+2026-02-03    Tablet              Electronics           3          30000
+
+
 # Question 1: Read CSV File and Analyze Data
 
 # Read the CSV file
