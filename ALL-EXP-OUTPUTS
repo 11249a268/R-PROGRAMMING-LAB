@@ -145,4 +145,32 @@
 # Experiment 3 - Question 16 Output
 [1] "Critical"
 
-/////////////EXP-4/////////////////
+/////////////EXP-4////////////////
+# Experiment 4 - Question 1 Output
+  RollNo   Name Dept Marks
+1    201  Rahul  CSE    88
+2    202  Priya  ECE    91
+3    203  Kiran   IT    79
+4    204 Anjali  CSE    85
+
+# Experiment 4 - Question 2 Output
+  EmpID  Name    Dept Salary
+1    11  Aman      HR  40000
+2    12 Sneha      IT  55000
+3    13  Ravi Finance  60000
+4    14  Neha      IT  58000
+
+# Experiment 4 - Question 3 Output
+  PatientID     Name Age  Cost
+1       301   Suresh  50 18000
+2       302 Lakshmi  40 22000
+3       303    Arjun  45 20000
+
+# Experiment 4 - Question 4 Output
+  ProductID ProductName Quantity
+1         1         Pen      100
+2         2        Book       60
+3         3      Bottle       40
+4         4         Bag       30
+
+/////////////EXP-5///////////////
