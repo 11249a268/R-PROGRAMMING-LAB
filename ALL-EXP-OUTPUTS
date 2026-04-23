@@ -351,3 +351,52 @@ $Scores
 2   Shoes      32500
 3  Tablet     210000
 4   Watch      30000
+
+////////////EXP-9///////////////////
+# Experiment 9 - Outputs
+
+# Question 1 Output
+Mean:
+Maths   84.8
+Science 84.8
+English 86.4
+
+Median:
+Maths   84.5
+Science 84.5
+English 87.5
+
+Top Student:
+Suresh 95 91 94 280
+
+# Question 2 Output
+Product with max average sales:
+Bag
+
+# Question 3 Output
+Mean Age:
+48.8
+
+Median Age:
+49
+
+Older Patients:
+Meena, Arjun, Priya, Suresh
+
+# Question 4 Output
+Department-wise salary stats displayed
+High earners:
+Kiran, Sneha, Suresh
+
+# Question 5 Output
+Mean Rating:
+4.2
+
+Median Rating:
+4
+
+Mode Rating:
+5
+
+Top Rated Products:
+Phone, Bag, Speaker, Charger
