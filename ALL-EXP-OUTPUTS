@@ -174,3 +174,33 @@
 4         4         Bag       30
 
 /////////////EXP-5///////////////
+# Experiment 5 - Question 1 Output
+[1] "RAHUL" "PRIYA" "KIRAN"
+[1] 5 5 5
+
+# Experiment 5 - Question 2 Output
+[1] "rahul" "priya" "kiran"
+
+# Experiment 5 - Question 3 Output
+[1] "R Programming" "Data Science" "AI"
+
+# Experiment 5 - Question 4 Output
+[1] TRUE TRUE FALSE
+
+# Experiment 5 - Question 5 Output
+[1] "issue in file, issue in system, issue occurred"
+
+# Experiment 5 - Question 6 Output
+[1] "Strong Password"
+
+# Experiment 5 - Question 7 Output
+[1] 6
+
+# Experiment 5 - Question 8 Output
+[1] "csv" "pdf" "png"
+
+# Experiment 5 - Question 9 Output
+[1] "Gay" "Kar" "Ani"
+
+# Experiment 5 - Question 10 Output
+[1] "Bala" "Ravi"
