@@ -45,3 +45,52 @@
 [1] "City Center"
 [1] 35.4
 [1] TRUE
+
+
+# Experiment 2 - Question 1 Output
+[1] "Eligible for Loan"
+
+# Experiment 2 - Question 2 Output
+[1] "Not Eligible for Exam"
+
+# Experiment 2 - Question 3 Output
+[1] "Discount Applied"
+
+# Experiment 2 - Question 4 Output
+[1] "High Usage"
+
+# Experiment 2 - Question 5 Output
+[1] "Bonus Eligible"
+
+# Experiment 2 - Question 6 Output
+[1] "Valid Password"
+
+# Experiment 2 - Question 7 Output
+[1] "Extreme Temperature Warning"
+
+# Experiment 2 - Question 8 Output
+[1] "A"
+
+# Experiment 2 - Question 9 Output
+[1] "Credit Card Approved"
+
+# Experiment 2 - Question 10 Output
+[1] "Medium Risk"
+
+# Experiment 2 - Question 11 Output
+[1] "Long Green Signal"
+
+# Experiment 2 - Question 12 Output
+[1] "Eligible for Appraisal"
+
+# Experiment 2 - Question 13 Output
+[1] "Exam Disqualified"
+
+# Experiment 2 - Question 14 Output
+[1] "Surge Pricing Applied"
+
+# Experiment 2 - Question 15 Output
+[1] "Machine Shutdown"
+
+# Experiment 2 - Question 16 Output
+[1] "Admission Rejected"
